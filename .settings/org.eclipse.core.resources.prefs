@@ -1,0 +1,20 @@
+#Mon Aug 28 15:06:29 GMT+08:00 2017
+eclipse.preferences.version=1
+encoding//src/main/java/com/cn/hnust/domain/UPermission.java=UTF-8
+encoding//src/main/java/com/cn/hnust/domain/URole.java=UTF-8
+encoding//src/main/java/com/cn/hnust/service/impl/PermissionServiceImpl.java=UTF-8
+encoding//src/main/java/com/cn/hnust/service/impl/RoleServiceImpl.java=UTF-8
+encoding//src/main/java/com/cn/hnust/shiro/listenter/CustomSessionListener.java=UTF-8
+encoding//src/main/java/com/cn/hnust/shiro/session/manager/CustomSessionManager.java=UTF-8
+encoding//src/main/java/com/cn/hnust/shiro/session/manager/RedisManager.java=UTF-8
+encoding//src/main/resources/jdbc.properties=UTF-8
+encoding//src/main/resources/log4j.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/common/error404.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/common/error500.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/common/left.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/common/top.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/permission/index.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/role/index.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/user/index.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/user/login.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/ftl/user/userlist.ftl=UTF-8
